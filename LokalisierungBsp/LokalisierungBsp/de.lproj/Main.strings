@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "6lH-WH-XJm"; */
+"6lH-WH-XJm.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "CLs-kA-KvS"; */
+"CLs-kA-KvS.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "A Label with static text"; ObjectID = "ZJZ-12-v27"; */
+"ZJZ-12-v27.text" = "Ein Label mit festem Text";

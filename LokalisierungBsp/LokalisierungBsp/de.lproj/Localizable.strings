@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LokalisierungBsp
+
+  Created by Christian Bleske on 07.03.15.
+  Copyright (c) 2015 Christian Bleske. All rights reserved.
+*/
+"LblText" = "Wichtige App!";
+"BtnTitle" = "Zeige Information";
+"DlgTitel" = "Titel des Dialogs";
+"DlgMessage" = "Sehr wichtige Mitteilung";
+"DlgOkBtnText" = "Ok";
+"DlgCanBtnText" = "Abbrechen";

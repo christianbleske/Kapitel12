@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LokalisierungBsp
+
+  Created by Christian Bleske on 07.03.15.
+  Copyright (c) 2015 Christian Bleske. All rights reserved.
+*/
+"LblText" = "Very Import App!";
+"BtnTitle" = "Show Message";
+"DlgTitel" = "Dialog Title";
+"DlgMessage" = "Very import Dialog Message";
+"DlgOkBtnText" = "Ok";
+"DlgCanBtnText" = "Cancel";
